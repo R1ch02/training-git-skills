@@ -12,14 +12,14 @@ ls -a
 
 ## _Testing font_
 
-###Deleted
+### Deleted
 
 ~~Deleted~~
 
-###Bold
+### Bold
 
 **Bold**
 
-###Italics
+### Italics
 
 _Italics_
